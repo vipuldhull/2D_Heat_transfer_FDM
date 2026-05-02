@@ -11,8 +11,7 @@ Your task:
    \frac{\partial}{\partial x}\!\left(\lambda \frac{\partial T}{\partial x}\right)
    + \frac{\partial}{\partial y}\!\left(\lambda \frac{\partial T}{\partial y}\right) = 0
    $$
-2. Apply **central differencing** to discretize spatial derivatives.  
-3. Present your **discrete equation** in **LaTeX format** below.
+3. Apply **central differencing** to discretize spatial derivatives.  
 ## Solution — Stage 1
 
 For constant thermal conductivity $\lambda$, the steady heat equation becomes
