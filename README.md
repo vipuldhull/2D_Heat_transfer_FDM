@@ -5,11 +5,7 @@ Solver based in python using finite difference method to solve 2D steady state h
 Derive a **second-order accurate Finite Difference (FD)** scheme for the **2D steady-state heat equation** with **constant thermal conductivity** $\lambda$.  
 Assume **Dirichlet boundary conditions** are applied on all sides of the domain.
 
-Your task:
 1. Start from the continuous governing equation  
-$$
-\frac{\partial}{\partial x}\!\left(\lambda \frac{\partial T}{\partial x}\right)+ \frac{\partial}{\partial y}\!\left(\lambda \frac{\partial T}{\partial y}\right) = 0
-$$
 3. Apply **central differencing** to discretize spatial derivatives.  
 ## Solution — Stage 1
 
